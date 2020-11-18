@@ -1,0 +1,11 @@
+[package]
+name = "keshiki"
+description = "Name reservation for the Keshiki project"
+repository = "https://github.com/zero-systems/keshiki"
+categories = ["ui", "gui", "web", "async"]
+license = "MIT"
+version = "0.1.0"
+authors = ["zero-systems <zerosystems@aol.com>"]
+edition = "2018"
+
+[dependencies]
